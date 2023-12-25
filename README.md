@@ -50,6 +50,7 @@
 <!-- Frameworks, bibliothèques et runtime -->
 <div align="left">
   <h4>Frameworks & Bibliothèques</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jakartaee/jakartaee-original.svg" height="40" alt="logo Jakarta EE" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="logo Spring"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="logo Angular"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="logo VueJS"  />
