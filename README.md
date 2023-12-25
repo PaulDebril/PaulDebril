@@ -18,15 +18,16 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 À propos de moi</h3>
+
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Je suis ... de ....<br><br>- 🔭 Je travaille actuellement en tant que ...<br>- 📚 J'apprends actuellement ...<br>- ⚡ Dans mon temps libre, je ...</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Langages et outils</h3>
 
 ###
 
@@ -57,7 +58,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Pauldebril/Pauldebril/output/snake.svg" alt="Snake animation" />
-
 ###
