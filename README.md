@@ -77,6 +77,7 @@
 <!-- Logiciels et outils -->
 <div align="left">
   <h4>Logiciels et Outils</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="logo Figma"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="logo Git"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="logo JIRA"  />
 </div>
