@@ -79,7 +79,7 @@
 <div align="left">
   <h4>Logiciels et Outils</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="logo Figma"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="logo Eclipse"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" height="40" alt="logo Eclipse"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="logo Visual Studio Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="logo Git"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="logo JIRA"  />
