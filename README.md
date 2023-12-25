@@ -23,7 +23,13 @@
 
 ###
 
-<p align="left">Je suis ... de ....<br><br>- 🔭 Je travaille actuellement en tant que ...<br>- 📚 J'apprends actuellement ...<br>- ⚡ Dans mon temps libre, je ...</p>
+<p align="left">
+Je suis un développeur web en alternance, passionné par la création de solutions innovantes et efficaces. Spécialisé en Java EE, je travaille avec des frameworks tels que Tapestry et Spring pour développer des applications web robustes et performantes.
+🔭 Actuellement, je mets mes compétences au service de projets ambitieux en tant qu'alternant en développement web, où je relève quotidiennement des défis techniques et contribue à l'évolution du paysage numérique.
+
+⚡ Dans mon temps libre, je me consacre à la conception et au développement d'un jeu sur Unreal Engine 5. Cette passion pour le jeu vidéo me permet de combiner ma créativité avec mes compétences techniques. Parallèlement, je me perfectionne en modélisation 3D grâce à Blender, ce qui enrichit mon univers créatif et technique.
+
+</p>
 
 ###
 
