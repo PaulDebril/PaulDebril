@@ -93,7 +93,7 @@ Logiciels et outils
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="logo Git"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="logo JIRA"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="logo Postman"  />
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" height="40" alt="logo Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="logo Figma"  />
 </div>
 
