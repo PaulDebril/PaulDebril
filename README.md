@@ -36,64 +36,47 @@
 
 <h3 align="left">🛠 Langages et outils</h3>
 
-####
-Langages de programmation
+<!-- Langages de programmation -->
 <div align="left">
+  <h4>Langages de Programmation</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="logo Java"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="logo JavaScript"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="logo Python"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="logo HTML5"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="logo JavaScript"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="logo TypeScript"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="logo HTML5"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo CSS3"  />
 </div>
 
-
-####
-Frameworks, bibliothèques et runtime
-####
-
+<!-- Frameworks, bibliothèques et runtime -->
 <div align="left">
+  <h4>Frameworks & Bibliothèques</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="logo Spring"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="logo Angular"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="logo VueJS"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="logo Node.js"  />
-</div>
-
-####
-Développement Web
-####
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo CSS3"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="logo Bootstrap"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="logo Docker"  />
 </div>
 
-####
-Bases de données
-####
-
+<!-- Bases de données et Conteneurisation -->
 <div align="left">
+  <h4>Bases de Données & Conteneurisation</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="logo MongoDB"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="logo MySQL"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="logo PostgreSQL"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="logo Docker"  />
 </div>
 
-####
-Outils de création et de modélisation 3D
-####
-
+<!-- Conception 3D & Développement de Jeux -->
 <div align="left">
+  <h4>Conception 3D & Développement de Jeux</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="logo Blender"  />
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="logo Unreal Engine"  />
 </div>
 
-####
-Logiciels et outils
-####
+<!-- Logiciels et outils -->
 <div align="left">
+  <h4>Logiciels et Outils</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="logo Git"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="logo JIRA"  />
 </div>
 
-###
-###
