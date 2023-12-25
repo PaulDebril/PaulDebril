@@ -26,9 +26,9 @@
 ###
 
 <p align="left">
-🔭 Actuellement, je suis un développeur web en alternance, passionné par la création de solutions innovantes et efficaces. Spécialisé en Java EE, je travaille avec des frameworks tels que Tapestry et Spring pour développer des applications web robustes et performantes.
+🔭 Actuellement en alternance en tant que développeur web, je me passionne pour la création de solutions web innovantes. Spécialisé en Java EE, j'utilise des frameworks comme Tapestry et Spring pour créer des sites web solides et efficaces.
 
-⚡ Dans mon temps libre, je me consacre à la conception et au développement d'un jeu sur Unreal Engine 5. Cette passion pour le jeu vidéo me permet de combiner ma créativité avec mes compétences techniques. Parallèlement, je me perfectionne en modélisation 3D grâce à Blender, ce qui enrichit mon univers créatif et technique.
+⚡ Pendant mon temps libre, je me lance dans le défi passionnant de développer un jeu sur Unreal Engine 5. C'est l'occasion pour moi d'allier ma passion pour les jeux vidéo à mes compétences en programmation. En parallèle, je me perfectionne en modélisation 3D avec Blender, ce qui me permet d'explorer de nouvelles avenues créatives et techniques.
 
 </p>
 
