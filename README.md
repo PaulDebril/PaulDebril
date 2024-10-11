@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Salut, moi c'est Paul !</h1>
 
-<h2 align="center">🚀 Développeur Fullstack en alternance</h2> <br></br> 
+<h3 align="center">🚀 Développeur Fullstack en alternance</h3> <br></br> 
 
 <p> 🎓 Étudiant en Bac+4 à <strong>MyDigitalSchool</strong>, où je prépare un <strong>MBA Développement Fullstack</strong>, je me spécialise dans les technologies modernes telles que <strong>React avec Next.js</strong>, <strong>Node.js</strong>, et les frameworks Java EE comme <strong>Tapestry</strong>, <strong>Spring</strong>, et <strong>Hibernate</strong>.<br></br> 
 
